@@ -7776,7 +7776,7 @@ button.close {
 }
 
 .text-center {
-	text-align: center !important;
+	text-align:center;!important;
 }
 
 @media (min-width: 576px) {
